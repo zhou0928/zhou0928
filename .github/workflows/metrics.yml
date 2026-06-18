@@ -1,0 +1,44 @@
+name: 🌐 Metrics & Globe
+
+on:
+  schedule:
+    # Run daily at midnight UTC
+    - cron: "0 0 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          base: ""
+          config_timezone: Asia/Shanghai
+
+          # 🌍 Stargazers map (geographic distribution of stargazers)
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: map
+          plugin_stargazers_charts: yes
+
+          # 👥 Community map (people section)
+          plugin_people: yes
+          plugin_people_types: followers, stargazers
+          plugin_people_limit: 24
+          plugin_people_size: 24
+          plugin_people_identicons: yes
+          plugin_people_shuffle: yes
+
+      - name: Upload metrics to branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          destination_dir: ./
+          publish_branch: metrics
+          keep_files: false

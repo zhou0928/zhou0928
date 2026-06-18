@@ -81,6 +81,30 @@
 
 ---
 
+<!-- GitHub Globe -->
+<div align="center">
+  <h3>🌍 GitHub Globe</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/zhou0928/zhou0928/metrics/github-metrics.svg" width="400" alt="metrics" />
+        <br/>
+        <sub>📊 Comprehensive activity metrics</sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/zhou0928/zhou0928/metrics/plugin/stargazers/stargazers.svg" width="400" alt="stargazers map" />
+        <br/>
+        <sub>⭐ Stargazers geographic distribution</sub>
+      </td>
+    </tr>
+  </table>
+  <sub><i>🌏 Your open-source reach around the world — run the Metrics workflow to activate</i></sub>
+</div>
+
+<br/>
+
+---
+
 <!-- Snake Animation -->
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
@@ -140,6 +164,38 @@
       </td>
     </tr>
   </table>
+</div>
+
+<br/>
+
+---
+
+<!-- Latest Blog Posts -->
+<div align="center">
+  <h3>📝 Latest Blog Posts</h3>
+</div>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  <sub><i>💡 文章会自动更新 — 把博客 RSS 地址设为 GitHub Secret `BLOG_RSS_URL` 即可启用</i></sub>
+</div>
+
+<br/>
+
+---
+
+<!-- Support / Buy Me a Coffee -->
+<div align="center">
+  <h3>☕ Support Me</h3>
+  <a href="https://www.buymeacoffee.com/zhou0928" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sponsors/zhou0928" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Sponsor-d952ff?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsor" />
+  </a>
 </div>
 
 <br/>
