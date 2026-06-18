@@ -69,6 +69,18 @@
 
 ---
 
+<!-- 3D Contribution Graph -->
+<div align="center">
+  <h3>🏔️ 3D Contributions</h3>
+  <img src="https://raw.githubusercontent.com/zhou0928/zhou0928/profile-3d/profile-night-view.svg" width="90%" alt="3D contributions" />
+  <br/>
+  <sub><i>✨ A 3D view of my contribution history — work in progress! (Run the 3D workflow once to see it)</i></sub>
+</div>
+
+<br/>
+
+---
+
 <!-- Snake Animation -->
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
