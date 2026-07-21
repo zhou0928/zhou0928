@@ -42,48 +42,27 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhou0928&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=zhou0928&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117)
+![grok-auto-register](https://img.shields.io/github/stars/zhou0928/grok-auto-register?style=for-the-badge&logo=github&label=grok-auto-register&color=ff69b4)
+![xzchat](https://img.shields.io/github/stars/zhou0928/xzchat?style=for-the-badge&logo=github&label=xzchat&color=61DAFB)
+![anyrouter-autolog](https://img.shields.io/github/stars/zhou0928/anyrouter-autolog-main?style=for-the-badge&logo=github&label=anyrouter&color=F78FB3)
 
 </div>
-
-> ⚠️ 如果统计图不显示，刷新几秒后会自动加载（Vercel 冷启动）
 
 ---
 
 ### 📌 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/zhou0928/grok-auto-register">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhou0928&repo=grok-auto-register&theme=radical&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/zhou0928/xzchat">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhou0928&repo=xzchat&theme=radical&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/zhou0928/anyrouter-autolog-main">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhou0928&repo=anyrouter-autolog-main&theme=radical&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
-      <td width="50%">
-        <div align="center" style="padding-top: 30px;">
-          <a href="https://github.com/zhou0928">
-            <img src="https://img.shields.io/badge/View%20All%20Repos-%F0%9F%93%82-8B5CF6?style=for-the-badge" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+| 项目 | 语言 | Stars | 描述 |
+|------|------|-------|------|
+| [grok-auto-register](https://github.com/zhou0928/grok-auto-register) | Python | ![](https://img.shields.io/github/stars/zhou0928/grok-auto-register?color=ff69b4&label=) | 🤖 Auto register Grok account |
+| [xzchat](https://github.com/zhou0928/xzchat) | JavaScript | ![](https://img.shields.io/github/stars/zhou0928/xzchat?color=61DAFB&label=) | 💬 Chat application |
+| [anyrouter-autolog-main](https://github.com/zhou0928/anyrouter-autolog-main) | Python | ![](https://img.shields.io/github/stars/zhou0928/anyrouter-autolog-main?color=F78FB3&label=) | 🔐 Auto login tool |
+
+<br/>
+
+<a href="https://github.com/zhou0928?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repos-%F0%9F%93%82-8B5CF6?style=for-the-badge" />
+</a>
 
 ---
 
