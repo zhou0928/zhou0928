@@ -46,49 +46,6 @@
 
 ---
 
-### 🏔️ 3D Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zhou0928/zhou0928/profile-3d/profile-night-view.svg" width="90%" alt="3D contributions" />
-  <br/>
-  <sub><i>✨ A 3D view of my contribution history</i></sub>
-</div>
-
----
-
-### 🌍 GitHub Globe
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/zhou0928/zhou0928/metrics/github-metrics.svg" width="400" alt="metrics" />
-        <br/>
-        <sub>📊 Comprehensive activity metrics</sub>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/zhou0928/zhou0928/metrics/plugin/stargazers/stargazers.svg" width="400" alt="stargazers map" />
-        <br/>
-        <sub>⭐ Stargazers geographic distribution</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhou0928/zhou0928/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhou0928/zhou0928/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/zhou0928/zhou0928/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
 ### 📌 Featured Projects
 
 <div align="center">
@@ -121,15 +78,6 @@
     </tr>
   </table>
 </div>
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<sub><i>💡 文章会自动更新 — 把博客 RSS 地址设为 GitHub Secret `BLOG_RSS_URL` 即可启用</i></sub>
 
 ---
 
