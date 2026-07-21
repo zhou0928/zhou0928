@@ -9,8 +9,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/zhou0928?style=for-the-badge&logo=github&label=Followers&color=blueviolet" alt="followers" />
-<img src="https://img.shields.io/github/stars/zhou0928?style=for-the-badge&logo=github&label=Total%20Stars&color=ff69b4" alt="stars" />
+<img src="https://img.shields.io/github/followers/zhou0928?style=for-the-badge&logo=github&label=Followers&color=blueviolet" />
+<img src="https://img.shields.io/github/stars/zhou0928?style=for-the-badge&logo=github&label=Stars&color=ff69b4" />
+<img src="https://img.shields.io/github/repos/zhou0928?style=for-the-badge&logo=github&label=Repos&color=00A379" />
 
 </div>
 
@@ -37,12 +38,17 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zhou0928&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhou0928&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhou0928&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=zhou0928&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117)
+
 </div>
+
+> ⚠️ 如果统计图不显示，刷新几秒后会自动加载（Vercel 冷启动）
 
 ---
 
@@ -71,7 +77,7 @@
       <td width="50%">
         <div align="center" style="padding-top: 30px;">
           <a href="https://github.com/zhou0928">
-            <img src="https://img.shields.io/badge/View%20All%20Repos-%F0%9F%93%82-8B5CF6?style=for-the-badge" alt="all repos" />
+            <img src="https://img.shields.io/badge/View%20All%20Repos-%F0%9F%93%82-8B5CF6?style=for-the-badge" />
           </a>
         </div>
       </td>
@@ -84,17 +90,17 @@
 ### ☕ Support Me
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/zhou0928" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  <a href="https://www.buymeacoffee.com/zhou0928">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
   &nbsp;
-  <a href="https://github.com/sponsors/zhou0928" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Sponsor-d952ff?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsor" />
+  <a href="https://github.com/sponsors/zhou0928">
+    <img src="https://img.shields.io/badge/GitHub_Sponsor-d952ff?style=for-the-badge&logo=github-sponsors&logoColor=white" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-2026--07--21-ff69b4?style=flat-square" alt="last updated" />
+  <img src="https://img.shields.io/badge/Last%20Updated-2026--07--21-ff69b4?style=flat-square" />
 </div>
